@@ -1,0 +1,21 @@
+* {
+  all: unset;
+  display: revert;
+  box-sizing: border-box;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  background: #141414;
+  color: white;
+  font-family: sans-serif;
+}
+
+#root {
+  height: 100%;
+  width: 100%;
+}

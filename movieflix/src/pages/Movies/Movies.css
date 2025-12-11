@@ -1,0 +1,15 @@
+.movies-page {
+  padding: 40px;
+  min-height: 100vh;
+  background: #141414;
+}
+
+.page-header {
+  padding: 0 50px 30px;
+}
+
+.page-header h1 {
+  color: white;
+  font-size: 32px;
+  margin: 0;
+}

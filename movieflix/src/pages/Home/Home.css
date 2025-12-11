@@ -1,0 +1,27 @@
+.home {
+  padding: 40px;
+  min-height: 100vh;
+  background: #141414;
+}
+
+.hero-section {
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white;
+  margin-bottom: 40px;
+}
+
+.hero-section h1 {
+  font-size: 48px;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+.hero-section p {
+  font-size: 24px;
+  color: #e5e5e5;
+}
